@@ -1,0 +1,15 @@
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\Click-Next-Workshop.exe
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\Click-Next-Workshop.deps.json
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\Click-Next-Workshop.runtimeconfig.json
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\Click-Next-Workshop.dll
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\ref\Click-Next-Workshop.dll
+G:\Git\Click-Next-Workshop\bin\Debug\net6.0\Click-Next-Workshop.pdb
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.csproj.AssemblyReference.cache
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.AssemblyInfoInputs.cache
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.AssemblyInfo.cs
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.csproj.CoreCompileInputs.cache
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.dll
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\ref\Click-Next-Workshop.dll
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.pdb
+G:\Git\Click-Next-Workshop\obj\Debug\net6.0\Click-Next-Workshop.genruntimeconfig.cache
