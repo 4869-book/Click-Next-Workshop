@@ -3,7 +3,7 @@ class Workshop
 {
     static void Main()
     {
-        NumberTriangle(5);
+        SecToTime(133210);
 
     }
 
@@ -152,6 +152,24 @@ class Workshop
         }
     }
 
+        //6
+    static void DescendingSort(int[] arr)
+    {
+        int i,j,key;
+        for(i=1;i<arr.Length;i++)
+        {
+            key=arr[i];
+            j=i-1;
+            while(j>=0 && arr[j]>key)
+            {
+                arr[j+1]= arr[j];
+                j=j-1;
+            }
+            arr[j+1]=key;
+        }
+        Console.WriteLine(string.Join(",", arr));
+    }
+
     //7
     static void SecToTime(int sec)
     {
@@ -226,24 +244,6 @@ class Workshop
             }
             Console.WriteLine("");
         }
-    }
-    
-    //6
-    static void DescendingSort(int[] arr)
-    {
-        int i,j,key;
-        for(i=1;i<arr.Length;i++)
-        {
-            key=arr[i];
-            j=i-1;
-            while(j>=0 && arr[j]>key)
-            {
-                arr[j+1]= arr[j];
-                j=j-1;
-            }
-            arr[j+1]=key;
-        }
-        Console.WriteLine(string.Join(",", arr));
     }
 
     //11
